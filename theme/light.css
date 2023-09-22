@@ -1,0 +1,6 @@
+:root[data-theme="light"] {
+    --bg-color: #f1edee;
+    --font-color: #141615dc;
+    --btn-bg: rgb(225, 225, 225);
+    --btn-hover: rgb(221, 221, 221);
+  }

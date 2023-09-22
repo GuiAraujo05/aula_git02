@@ -1,0 +1,6 @@
+:root[data-theme="dark"] {
+    --bg-color: #141615;
+    --font-color: #f1edee9f;
+    --btn-bg: rgb(36, 36, 36);
+    --btn-hover: #181818;
+  }
