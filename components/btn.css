@@ -1,0 +1,20 @@
+.btn {
+    background-color: var(--btn-bg);
+    color: var(--font-color);
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: medium;
+  }
+  .btn:hover {
+    background-color: var(--btn-hover);
+  }
+  .btn:active {
+    outline: var(--font-color) solid 3px;
+  }
+  
+  .component {
+    padding: 25px !important;
+    text-transform: uppercase;
+  }
